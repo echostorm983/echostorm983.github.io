@@ -1,1 +1,12 @@
 
+p {
+  font-family: sans-serif;
+  color: Black;
+}
+
+li {
+  background-color: black;
+  border: 5px solid black;
+  margin-bottom: 5px;
+}
+    
