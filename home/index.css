@@ -43,8 +43,8 @@ p {
   touch-action: manipulation;
 }
 
-.button-1:hover,
-.button-1:focus {
+.button:hover,
+.button:focus {
   background-color: #000000;
 }
 
