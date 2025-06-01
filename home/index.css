@@ -3,6 +3,7 @@ body {
   color: white;
   font-family: verdana;
   font-size: 20px;
+  text-align: center;
 }
 
 h1 {
@@ -19,11 +20,11 @@ p {
 
 
 .button {
-  background-color: #000000;
+  background-color: #ffffff;
   border-radius: 8px;
   border-style: none;
   box-sizing: border-box;
-  color: #FFFFFF;
+  color: #000000;
   cursor: pointer;
   display: inline-block;
   font-family: "Haas Grot Text R Web", "Helvetica Neue", Helvetica, Arial, sans-serif;
@@ -47,10 +48,5 @@ p {
 
 .button:hover,
 .button:focus {
-  background-color: #000000;
+  background-color: #494949;
 }
-
-
-
-
-
