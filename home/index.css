@@ -5,8 +5,7 @@ body {
   font-family: verdana;
   font-size: 20px;
   text-align: center;
-   cursor: url('image-path.png'), url('image-path-2.svg), 
-          url('image-path-3.jpeg'), auto;
+   cursor: url('Cursor.png'), auto;
 }
 
 h1 {
